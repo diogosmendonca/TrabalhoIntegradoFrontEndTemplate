@@ -7,7 +7,7 @@ Organizaremos os arquivos do projeto na seguinte estrutura.
 - docs/ - Documentação que não possa ser tratada como wiki, por exemplo, os protótipos de interface, vídeos, etc. Documentos textuais deverão ser entregues no wiki do github. A estrutura da documentação do wiki será a mesma apresentada abaixo.
   - requisitos/ 
   - arquitetura/
-  - teste/
+  - testes/
   - gestao/ 
 - software/ - Código-fonte
   - front-end/ - Código front-end em React
